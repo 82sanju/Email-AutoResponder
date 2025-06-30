@@ -6,7 +6,7 @@ Model X is an intelligent, cloud-ready AI agent that reads unread emails from yo
 ---
 # 🧱 Architecture
 
-![image](https://github.com/user-attachments/assets/6d890d82-96ab-4da2-9378-ccad534cb65c)
+![image](https://github.com/user-attachments/assets/2adaf7ae-fe15-418a-9c59-c976c1ffc504)
 
 
 ---
