@@ -4,6 +4,12 @@
 Model X is an intelligent, cloud-ready AI agent that reads unread emails from your Gmail inbox, understands the intent, generates professional replies using OpenAI GPT, and optionally sends them—all with minimal manual effort.
 
 ---
+# 🧱 Architecture
+
+![image](https://github.com/user-attachments/assets/6d890d82-96ab-4da2-9378-ccad534cb65c)
+
+
+---
 
 ## 🚀 Features
 
